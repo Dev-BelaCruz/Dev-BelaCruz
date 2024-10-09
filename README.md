@@ -7,6 +7,7 @@ aonde estou no 3 semestre da mesma, e estou fazendo cursos por fora também.
 💡Área De Interesse
 -----------------------------
 - Me torna uma Desenvolvedora Front-End
+- Intenção em Trabalhar com Construção Sites Inicialmente
 
 
 💼Competência
