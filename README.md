@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="center">🌸 Olá! Sou a Bela<br>---------------------------<br>- Sou Uma Estudante De Analise e desenvolvimento de sistemas (ADS),<br>aonde estou no 3 semestre da mesma, e estou fazendo cursos por fora também.</p>
+<p align="center">🌸 Olá! Sou a Bela<br>---------------------------<br>- Sou Uma Estudante De Analise e desenvolvimento de sistemas (ADS),<br>aonde estou no 4 semestre da mesma, e estou fazendo cursos por fora também.</p>
 
 ###
 
