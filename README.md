@@ -12,7 +12,29 @@
 
 <br clear="both">
 
-<p align="center">💼Competência<br>-----------------------------<br>- Inglês Básico<br>- Python Básico</p>
+<p align="center">💼Competência<br>-----------------------------<br></p>
+
+<p> - HTML e CSS
+
+- Lógica de programação
+
+- Desenvolvimento Front-End
+
+- Python básico
+
+- Design de interfaces (nível iniciante)
+
+- Organização de projetos e código
+
+- Noções de CloudOps
+
+- Escrita técnica e comunicação clara
+
+- Autodidata e resiliente
+
+- Alinhamento de tecnologia com impacto social
+  
+- Inglês Básico </p>
 
 ###
 
