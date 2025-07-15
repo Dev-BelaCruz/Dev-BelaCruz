@@ -14,7 +14,7 @@
 
 <p align="center">💼Competência<br>-----------------------------<br></p>
 
-<p> 
+<p align="center"> 
 
 - Lógica de programação
 
