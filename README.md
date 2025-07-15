@@ -14,29 +14,7 @@
 
 <p align="center">💼Competência<br>-----------------------------<br></p>
 
-<p align="center"> 
-
-- Lógica de programação
-
-- HTML e CSS
-
-- Desenvolvimento Front-End
-
-- Python básico
-
-- Design de interfaces (nível iniciante)
-
-- Organização de projetos e código
-
-- Noções de CloudOps
-
-- Escrita técnica e comunicação clara
-
-- Autodidata e resiliente
-
-- Alinhamento de tecnologia com impacto social
-  
-- Inglês Básico </p>
+<p align="center"> - Lógica de programação - HTML e CSS - Desenvolvimento Front-End - Python básico - Design de interfaces (nível iniciante) - Organização de projetos e código - Noções de CloudOps - Escrita técnica e comunicação clara - Autodidata e resiliente - Alinhamento de tecnologia com impacto social - Inglês Básico </p>
 
 ###
 
