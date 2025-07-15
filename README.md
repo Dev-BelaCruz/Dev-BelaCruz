@@ -56,7 +56,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://linktr.ee/belacruz01" target="_blank">
-  <img role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Linktree</title><path d="m13.73635 5.85251 4.00467-4.11665 2.3248 2.3808-4.20064 4.00466h5.9085v3.30473h-5.9365l4.22865 4.10766-2.3248 2.3338L12.0005 12.099l-5.74052 5.76852-2.3248-2.3248 4.22864-4.10766h-5.9375V8.12132h5.9085L3.93417 4.11666l2.3248-2.3808 4.00468 4.11665V0h3.4727zm-3.4727 10.30614h3.4727V24h-3.4727z" >
+  <img src = "<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/d6edf2bd-12b0-4503-a034-ed8c7e6d0790" />
+
    
   </a>
   <a href="https://www.youtube.com/@BelaCruz01" target="_blank">
