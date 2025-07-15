@@ -1,26 +1,26 @@
 <br clear="both">
 
-<p align="center">🌸 Olá! Sou a Bela<br>---------------------------<br>- Sou Uma Estudante De Analise e desenvolvimento de sistemas (ADS),<br>aonde estou no 4 semestre da mesma, e estou fazendo cursos por fora também.</p>
+<p align="center">🌸 Olá! Sou a Bela<br>---------------------------<br>- Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 4º semestre.<br>- Faço cursos extras para ampliar meus conhecimentos e me preparar para o mercado.</p>
 
 ###
 
 <br clear="both">
 
-<p align="center">💡Área De Interesse<br>-----------------------------<br>- Me torna uma Desenvolvedora Front-End<br>- Intenção em Trabalhar com Construção Sites Inicialmente</p>
+<p align="center">💡 Áreas de Interesse<br>-----------------------------<br>- Tornar-me Desenvolvedora Front-End<br>- Atuar na construção de sites e interfaces intuitivas</p>
 
 ###
 
 <br clear="both">
 
-<p align="center">💼Competência<br>-----------------------------<br></p>
+<p align="center">💼 Competências<br>-----------------------------</p>
 
-<p align="center"> - Lógica de programação - HTML e CSS - Desenvolvimento Front-End - Python básico - Design de interfaces (nível iniciante) - Organização de projetos e código - Noções de CloudOps - Escrita técnica e comunicação clara - Autodidata e resiliente - Alinhamento de tecnologia com impacto social - Inglês Básico </p>
+<p align="center">Lógica de programação • HTML e CSS • Desenvolvimento Front-End • Python básico • Design de interfaces (iniciante) • Organização de projetos e código • Noções de CloudOps • Escrita técnica e comunicação clara • Autodidata e resiliente • Tecnologia com impacto social • Inglês básico</p>
 
 ###
 
 <br clear="both">
 
-<p align="center">💻Tecnologias<br>-----------------------------</p>
+<p align="center">💻 Tecnologias<br>-----------------------------</p>
 
 ###
 
@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<p align="center">📱Sociais<br>-----------------------------</p>
+<p align="center">📱 Redes Sociais<br>-----------------------------</p>
 
 ###
 
@@ -56,9 +56,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://linktr.ee/belacruz01" target="_blank">
-  <img src = "<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/d6edf2bd-12b0-4503-a034-ed8c7e6d0790" />
-
-   
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" width="40" height="40" alt="linktree logo" />
   </a>
   <a href="https://www.youtube.com/@BelaCruz01" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -72,13 +70,13 @@
 
 <br clear="both">
 
-<p align="center">📈Estatística<br>-----------------------------</p>
+<p align="center">📈 Estatísticas<br>-----------------------------</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-BelaCruz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-BelaCruz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-BelaCruz&show_icons=true&count_private=true&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-BelaCruz&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 ###
