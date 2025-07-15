@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="center">🌸 Olá! Sou a Bela<br>---------------------------<br> - Tecnóloga em Análise e Desenvolvimento de Sistemas | Front-End em formação com foco em impacto social. <br> - Sempre Fazendo cursos para melhor crescimento</p>
+<p align="center">🌸 Olá! Sou a Bela<br>---------------------------<br> - Tecnóloga em Análise e Desenvolvimento de Sistemas | Front-End em formação com foco em impacto social. <br> - Sempre Fazendo cursos para melhor crescimento no mercado.</p>
 
 ###
 
