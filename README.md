@@ -15,9 +15,10 @@
 <p align="center">💼Competência<br>-----------------------------<br></p>
 
 <p> 
-- HTML e CSS
 
 - Lógica de programação
+
+- HTML e CSS
 
 - Desenvolvimento Front-End
 
