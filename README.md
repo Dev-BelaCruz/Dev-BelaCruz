@@ -55,8 +55,8 @@
   <a href="https://discord.gg/EFcJKbG8W3" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="ic.veloso2004@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://linktr.ee/belacruz01" target="_blank">
+    <img src="https://icons8.com.br/icon/x03G5TG9OoEO/linktree" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.youtube.com/@BelaCruz01" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
