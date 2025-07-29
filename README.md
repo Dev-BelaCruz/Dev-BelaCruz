@@ -1,52 +1,72 @@
-<br clear="both">
+# 🌸 Olá! Sou a Bela
 
-<p align="center">🌸 Olá! Sou a Bela<br>---------------------------<br> - Tecnóloga em Análise e Desenvolvimento de Sistemas | Front-End em formação com foco em impacto social. <br> - Sempre Fazendo cursos para melhor crescimento no mercado.</p>
+---
 
-###
+**Sobre Mim:**
+- Tecnóloga em Análise e Desenvolvimento de Sistemas
+- Front-End em formação com foco em impacto social
+- Sempre buscando cursos para aprimorar minhas habilidades e crescer no mercado
 
-<br clear="both">
+---
 
-<p align="center">💡 Áreas de Interesse<br>-----------------------------<br>- Tornar-me Desenvolvedora Front-End<br>- Atuar na construção de sites e interfaces intuitivas</p>
+## 💡 Áreas de Interesse
 
-###
+- Tornar-me Desenvolvedora Front-End
+- Contribuir na construção de sites e interfaces intuitivas
 
-<br clear="both">
+---
 
-<p align="center">💼 Competências<br>-----------------------------</p>
+## 💼 Hard Skills (Habilidades Técnicas)
 
-<p align="center">Lógica de programação • HTML e CSS • Desenvolvimento Front-End • Python básico • Design de interfaces (iniciante) • Organização de projetos e código • Noções de CloudOps • Escrita técnica e comunicação clara • Autodidata e resiliente • Tecnologia com impacto social • Inglês básico</p>
+### Front-End & Web
+- **HTML5 / CSS3 / Tailwind CSS** — Manja da base e já aplicou em projetos reais como seu portfólio e landing pages.
+- **JavaScript (Puro)** — Está estudando JS puro, com foco em entender bem a linguagem antes de frameworks.
+- **React (Básico/Intermediário)** — Tem experiência com projetos em React, como SPA e componentes reutilizáveis.
+- **Git / GitHub** — Usa versionamento nos seus projetos, já criou repositórios bem documentados.
+- **Responsividade / Mobile-First Design** — Cria interfaces que se adaptam bem em diversos dispositivos.
+- **Design Gráfico** — Fez curso pelo Canva, sabe aplicar identidade visual e estética nos projetos.
+- **Figma (Básico)** — Usa como apoio no design de interfaces e wireframes.
+- **Netlify / Deploy** — Já publicou projetos pessoais na web com deploy via Netlify.
 
-###
+### Outros Conhecimentos
+- **Inglês Técnico** — Consegue ler documentação e já tá praticando com apps tipo Duolingo e Mimo.
+- **CloudOps (Iniciante)** — Participou de uma imersão, já ouviu os conceitos e tem noção do ambiente.
+- **UX Writing / Escrita Técnica** — Já escreveu README organizado e com clareza nos seus repositórios.
+- **Noções de Acessibilidade Digital** — Se preocupa com inclusão digital em projetos sociais.
 
-<br clear="both">
+---
 
-<p align="center">💻 Tecnologias<br>-----------------------------</p>
+## 🤝 Soft Skills (Habilidades Comportamentais)
 
-###
+- **Autodidata** — Vive correndo atrás do conhecimento sozinha, seja com cursos, prática ou estudo livre.
+- **Organização** — Estrutura seus projetos com planejamento e mantém documentação clara.
+- **Criatividade** — Usa design e programação pra expressar ideias, principalmente em projetos com propósito social.
+- **Empatia** — Teus projetos visam impacto social real (como pautas LGBTQIAPN+, educação e justiça social).
+- **Comunicação** — Se comunica bem por escrito (README, apresentações), sabe explicar suas ideias.
+- **Resiliência** — Continua estudando e praticando mesmo sem PC ideal ou renda estável, isso é raro e valioso.
+- **Capacidade de Aprendizado Rápido** — Entra em imersão, explora novas ferramentas e já aplica no dia a dia.
+- **Visão de Futuro** — Tem objetivos claros como trabalhar na Totvs e atuar com tecnologia de impacto.
+- **Colaboração** — Mesmo sozinha nos projetos, mostra visão coletiva e se abre a feedbacks e melhorias.
 
-<br clear="both">
+---
+
+## 💻 Tecnologias
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
 </div>
 
-###
+---
 
-<br clear="both">
-
-<p align="center">📱 Redes Sociais<br>-----------------------------</p>
-
-###
-
-<br clear="both">
+## 📱 Redes Sociais
 
 <div align="center">
   <a href="https://www.linkedin.com/in/isabela-cruz-veloso-995229236/" target="_blank">
@@ -66,18 +86,13 @@
   </a>
 </div>
 
+---
 
-###
-
-<br clear="both">
-
-<p align="center">📈 Estatísticas<br>-----------------------------</p>
-
-###
+## 📈 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-BelaCruz&show_icons=true&count_private=true&theme=dracula" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-BelaCruz&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-BelaCruz&show_icons=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-BelaCruz&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </div>
 
-###
+---
