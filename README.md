@@ -86,14 +86,6 @@
 
 ---
 
-## Outras Redes
-
-<div align="center">
-  <a href="https://linktr.ee/belacruz01" target="_blank">Linktree</a>
-</div>
-
----
-
 ## 📈 Estatísticas
 
 <div align="center">
