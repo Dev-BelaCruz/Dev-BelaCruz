@@ -83,14 +83,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo" />
   </a>
 </div>
-
----
-
-## 📈 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-BelaCruz&show_icons=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-BelaCruz&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
-</div>
-
----
